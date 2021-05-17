@@ -18,4 +18,5 @@ The practice was to do the next steps:
 # Attendance 
 - Abdurrahman Rajab 
 - Anas Ahmed Elgarhy
+- Peter Victor
 - Abdelrhman Eyad 
