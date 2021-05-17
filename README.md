@@ -19,6 +19,5 @@ The practice was to do the next steps:
 - Abdurrahman Rajab 
 - Anas Ahmed Elgarhy
 - Peter Victor
-- Abdelrhman Eyad 
-
--mostafa Ahmed 
+- Abdelrhman Eyad
+- mostafa Ahmed 
